@@ -14,7 +14,7 @@ Given passengers details, model predicts whether a passenger survived the Titani
 
 ## Getting Started:
 ```bash
-git clone 
+git clone https://github.com/AnisaIlyas/titanic-survival-prediction.git
 cd titanic-survival-prediction
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
